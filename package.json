@@ -1,0 +1,18 @@
+{
+  "name": "hsb2hsl",
+  "private": true,
+  "version": "1.0.0",
+  "author": "phoebe <me@phoebe.codes>",
+  "license": "BSD-3-Clause",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "react": "^16.7.0-alpha.2",
+    "react-dom": "^16.7.0-alpha.2"
+  },
+  "devDependencies": {
+    "parcel": "^1.11.0"
+  }
+}
